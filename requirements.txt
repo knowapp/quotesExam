@@ -1,0 +1,11 @@
+bcrypt==3.1.4
+cffi==1.11.2
+Django==1.11.6
+django-bootstrap-forms==0.1
+django-bootstrap3==9.0.0
+django-debug-toolbar==1.8
+djangorestframework==3.7.1
+pycparser==2.18
+pytz==2017.2
+six==1.11.0
+sqlparse==0.2.4
